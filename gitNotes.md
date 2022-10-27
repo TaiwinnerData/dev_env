@@ -13,8 +13,8 @@ Git common commands
 12. "git checkout branchName" 					|||switch branch
 13. "git status"
 14. "git remote add origin remoteGitRepot_url
-15. "git push -u origin master"
-16. "git 
+15. "git push -u origin master"   
+16. "git push -u -f origin master" if you want to forcely change git repository
 17. "git config --global user.email "you@example.com" 		|||before you can actually commit something you have to add your name and email to the git configuration.   the <config> file is on the route: "c:\Users\<username>\.gitconfig"  the global config can be used without setting config user.name and user.email everytime.
 18. "git config --global user.name "your name"			||| same as 17. you should add your name to the configuration to make the commit know who you are.
 19. "git config --local user.email "you@example.com"		|||pretty much the similar situation as 17. and 18. but you are add the config to the local and you have to set the config user.name and user.email everytimes you create repo.  the config file route: "git repo's .git folder"
