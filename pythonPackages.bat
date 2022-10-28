@@ -5,4 +5,11 @@ pip install dateutil
 pip install numpy
 pip install bs4
 pip install flask
+pip install pyodbc
+pip install openpyxl
+pip install opencc
+pip install pylab
+pip install scipy
+pip install sklearn
+pip install matplotlib
 pip install flask-login
