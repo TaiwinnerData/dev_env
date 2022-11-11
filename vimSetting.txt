@@ -8,3 +8,9 @@ highlight type ctermfg=91
 highlight comment ctermfg=152
 highlight function ctermfg=140
 highlight constant ctermfg=green
+
+
+" those two line below maybe won't work, so maybe you should add those two
+line when you use vim
+set nowrap
+set textwidth=0
