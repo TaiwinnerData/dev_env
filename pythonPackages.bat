@@ -14,3 +14,4 @@ pip install sklearn
 pip install scikit-learn
 pip install matplotlib
 pip install flask-login
+pip install cvxopt
