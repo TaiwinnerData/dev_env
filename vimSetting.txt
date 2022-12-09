@@ -14,3 +14,7 @@ highlight constant ctermfg=green
 "line when you use vim
 set nowrap
 set textwidth=0
+
+
+" Disable annoying beeping
+set belloff=all
